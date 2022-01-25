@@ -2,11 +2,12 @@
 Sistema de Facturación e Inventario de la Empresa Sistemas Point S.A. Escrito en Java, usando MySQL
 
 #Descripción
-Realizado para la asignatura de Ingeniería de Software II. Universidad Nacional de Ingeniería.
+Realizado para la asignatura de Programacion I
+Instituto Superior Politécnico Córdoba
 
 Por:
 
-* Br. Allan Havid Ramirez Herrera
-* Br. Jairo Javier Martínez Mercado
+* Ferreyra Gaston
 
-Julio 2017
+
+Julio 2021
